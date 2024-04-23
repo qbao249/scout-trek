@@ -32,8 +32,30 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng apple music</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) luôn truy cập bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) kết nối thiết bị ngoại vi bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng lịch</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng camera để chụp ảnh đăng lên trang cá nhân hoặc gửi bạn bè</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sẽ nạp thông tin danh bạ lên máy chủ, nhằm đồng bộ danh bạ với bạn bè</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng vị trí để tìm những bài viết xung quanh</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Luôn cho phép $(PRODUCT_NAME) sử dụng vị trí để tìm những bài viết xung quanh</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng vị trí để tìm những bài viết xung quanh khi dùng ứng dụng</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) sử dụng microphone để gửi tin nhắn thoại đến bạn bè</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) truy cập bổ sung kho ảnh</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Cho phép $(PRODUCT_NAME) truy cập kho ảnh để lưu tải về</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
